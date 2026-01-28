@@ -46,6 +46,17 @@ img {
   max-width: 100%;
 }
 
+figure {
+  text-align: center;  /* centers both image and caption */
+  margin: 20px 0;      /* spacing above and below */
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 5px;
+}
+
 
 
 
