@@ -32,3 +32,11 @@ input, textarea {
   box-sizing: border-box;
 }
 
+img {
+  display: block;
+  margin: 10px auto; /* 10px top/bottom spacing, auto left/right */
+  max-width: 100%;   /* responsive */
+  border-radius: 8px; /* optional rounded corners */
+}
+
+
